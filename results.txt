@@ -1,0 +1,2519 @@
+1000
+1920|PG
+The Shawshank Redemption|9.3
+The Godfather|9.2
+The Dark Knight|9
+The Godfather: Part II|9
+12 Angry Men|9
+The Lord of the Rings: The Return of the King|8.9
+Pulp Fiction|8.9
+Schindler's List|8.9
+Inception|8.8
+Fight Club|8.8
+Gangs of Wasseypur|321 min|2012
+Hamlet|242 min|1996
+Gone with the Wind|238 min|1939
+Once Upon a Time in America|229 min|1984
+Lawrence of Arabia|228 min|1962
+Lagaan: Once Upon a Time in India|224 min|2001
+The Ten Commandments|220 min|1956
+Ben-Hur|212 min|1959
+Swades: We, the People|210 min|2004
+The Irishman|209 min|2019
+Shichinin no samurai|207 min|1954
+Andrei Rublev|205 min|1966
+Sholay|204 min|1975
+The Godfather: Part II|202 min|1974
+Malcolm X|202 min|1992
+The Lord of the Rings: The Return of the King|201 min|2003
+Giant|201 min|1956
+Doctor Zhivago|197 min|1965
+Spartacus|197 min|1960
+Kis Uykusu|196 min|2014
+Schindler's List|195 min|1993
+Titanic|194 min|1997
+The Right Stuff|193 min|1983
+Veer-Zaara|192 min|2004
+Gandhi|191 min|1982
+The Green Mile|189 min|1999
+Dilwale Dulhania Le Jayenge|189 min|1995
+JFK|189 min|1991
+Fanny och Alexander|188 min|1982
+Magnolia|188 min|1999
+Short Cuts|188 min|1993
+Bhaag Milkha Bhaag|186 min|2013
+Kal Ho Naa Ho|186 min|2003
+Barry Lyndon|185 min|1975
+M.S. Dhoni: The Untold Story|184 min|2016
+Dil Chahta Hai|183 min|2001
+The Deer Hunter|183 min|1978
+Avengers: Endgame|181 min|2019
+Dances with Wolves|181 min|1990
+Fiddler on the Roof|181 min|1971
+The Wolf of Wall Street|180 min|2013
+Bound by Honor|180 min|1993
+Kagemusha|180 min|1980
+La vie d'Adèle|180 min|2013
+The Lord of the Rings: The Two Towers|179 min|2002
+Judgment at Nuremberg|179 min|1961
+The Lord of the Rings: The Fellowship of the Ring|178 min|2001
+Braveheart|178 min|1995
+Casino|178 min|1995
+Dogville|178 min|2003
+The Longest Day|178 min|1962
+The Message|177 min|1976
+The Godfather|175 min|1972
+La dolce vita|174 min|1960
+The Great Escape|172 min|1963
+The Sound of Music|172 min|1965
+Patton|172 min|1970
+Ba wang bie ji|171 min|1993
+3 Idiots|170 min|2009
+Scarface|170 min|1983
+Heat|170 min|1995
+Underground|170 min|1995
+The Best Years of Our Lives|170 min|1946
+My Fair Lady|170 min|1964
+The Thin Red Line|170 min|1998
+Interstellar|169 min|2014
+Saving Private Ryan|169 min|1998
+La leggenda del pianista sull'oceano|169 min|1998
+The Hobbit: An Unexpected Journey|169 min|2012
+The Hateful Eight|168 min|2015
+Baahubali 2: The Conclusion|167 min|2017
+Rang De Basanti|167 min|2006
+Solaris|167 min|1972
+The Curious Case of Benjamin Button|166 min|2008
+Once Upon a Time in the West|165 min|1968
+Django Unchained|165 min|2012
+Taare Zameen Par|165 min|2007
+My Name Is Khan|165 min|2010
+Boyhood|165 min|2014
+The Dark Knight Rises|164 min|2012
+Blade Runner 2049|164 min|2017
+Drishyam|163 min|2015
+Bajrangi Bhaijaan|163 min|2015
+The Last Emperor|163 min|1987
+Ran|162 min|1985
+Stalker|162 min|1979
+Avatar|162 min|2009
+Watchmen|162 min|2009
+The Godfather: Part III|162 min|1990
+Il buono, il brutto, il cattivo|161 min|1966
+Dangal|161 min|2016
+The Bridge on the River Kwai|161 min|1957
+Anatomy of a Murder|161 min|1959
+The Hobbit: The Desolation of Smaug|161 min|2013
+Once Upon a Time... in Hollywood|161 min|2019
+Hamilton|160 min|2020
+Drishyam|160 min|2013
+Amadeus|160 min|1984
+Andaz Apna Apna|160 min|1994
+Haider|160 min|2014
+Baby|159 min|2015
+Bãhubali: The Beginning|159 min|2015
+Breaking the Waves|159 min|1996
+Rockstar|159 min|2011
+There Will Be Blood|158 min|2007
+Fitzcarraldo|158 min|1982
+The Girl with the Dragon Tattoo|158 min|2011
+Where Eagles Dare|158 min|1968
+Bir Zamanlar Anadolu'da|157 min|2011
+American Gangster|157 min|2007
+The Insider|157 min|1999
+Zodiac|157 min|2007
+Harry Potter and the Goblet of Fire|157 min|2005
+Giù la testa|157 min|1971
+K.G.F: Chapter 1|156 min|2018
+Der Untergang|156 min|2004
+Hera Pheri|156 min|2000
+Munna Bhai M.B.B.S.|156 min|2003
+The Revenant|156 min|2015
+Scent of a Woman|156 min|1992
+Gladiator|155 min|2000
+Nuovo Cinema Paradiso|155 min|1988
+Zindagi Na Milegi Dobara|155 min|2011
+Un prophète|155 min|2009
+Boogie Nights|155 min|1997
+Pulp Fiction|154 min|1994
+Amores perros|154 min|2000
+Gully Boy|154 min|2019
+The Color Purple|154 min|1985
+The Last Samurai|154 min|2003
+Soorarai Pottru|153 min|2020
+Inglourious Basterds|153 min|2009
+Metropolis|153 min|1927
+Chak De! India|153 min|2007
+PK|153 min|2014
+Prisoners|153 min|2013
+Empire of the Sun|153 min|1987
+Harry Potter and the Half-Blood Prince|153 min|2009
+The Dark Knight|152 min|2008
+Ford v Ferrari|152 min|2019
+All Quiet on the Western Front|152 min|1930
+Män som hatar kvinnor|152 min|2009
+Ray|152 min|2004
+Harry Potter and the Sorcerer's Stone|152 min|2001
+The Departed|151 min|2006
+Barfi!|151 min|2012
+Papillon|151 min|1973
+The Pianist|150 min|2002
+Serbuan maut 2: Berandal|150 min|2014
+The Dirty Dozen|150 min|1967
+Avengers: Infinity War|149 min|2018
+Das Boot|149 min|1981
+2001: A Space Odyssey|149 min|1968
+Gone Girl|149 min|2014
+Inception|148 min|2010
+Into the Wild|148 min|2007
+Udta Punjab|148 min|2016
+Vikram Vedha|147 min|2017
+Apocalypse Now|147 min|1979
+Mulholland Dr.|147 min|2001
+Captain America: Civil War|147 min|2016
+Straight Outta Compton|147 min|2015
+Mission: Impossible - Fallout|147 min|2018
+Sleepers|147 min|1996
+Goodfellas|146 min|1990
+The Shining|146 min|1980
+Queen|146 min|2013
+The Help|146 min|2011
+Harry Potter and the Deathly Hallows: Part 1|146 min|2010
+Man on Fire|146 min|2004
+The Hurricane|146 min|1999
+Ah-ga-ssi|145 min|2016
+Paris, Texas|145 min|1984
+The Wild Bunch|145 min|1969
+Zwartboek|145 min|2006
+Minority Report|145 min|2002
+Lage Raho Munna Bhai|144 min|2006
+The Martian|144 min|2015
+Special Chabbis|144 min|2013
+Dev.D|144 min|2009
+Casino Royale|144 min|2006
+Cinderella Man|144 min|2005
+Carlito's Way|144 min|1993
+L'avventura|144 min|1960
+Ang-ma-reul bo-at-da|144 min|2010
+Das weiße Band - Eine deutsche Kindergeschichte|144 min|2009
+Black Hawk Down|144 min|2001
+Kelly's Heroes|144 min|1970
+Tengoku to jigoku|143 min|1963
+Ikiru|143 min|1952
+Chhichhore|143 min|2019
+The Avengers|143 min|2012
+Blood Diamond|143 min|2006
+Pirates of the Caribbean: The Curse of the Black Pearl|143 min|2003
+Cast Away|143 min|2000
+The Day of the Jackal|143 min|1973
+Skyfall|143 min|2012
+The Shawshank Redemption|142 min|1994
+Forrest Gump|142 min|1994
+Idi i smotri|142 min|1985
+Dom za vesanje|142 min|1988
+Harry Potter and the Prisoner of Azkaban|142 min|2004
+Bridge of Spies|142 min|2015
+Catch Me If You Can|141 min|2002
+Rio Bravo|141 min|1959
+Letters from Iwo Jima|141 min|2006
+La grande bellezza|141 min|2013
+Mr. Nobody|141 min|2009
+The Killing Fields|141 min|1984
+Changeling|141 min|2008
+Warrior|140 min|2011
+Batman Begins|140 min|2005
+Taegukgi hwinalrimyeo|140 min|2004
+Dancer in the Dark|140 min|2000
+Leviafan|140 min|2014
+La Vie En Rose|140 min|2007
+Apollo 13|140 min|PG
+Fight Club|139 min|1999
+Andhadhun|139 min|2018
+Mommy|139 min|2014
+Hacksaw Ridge|139 min|2016
+Kakushi-toride no san-akunin|139 min|1958
+Apocalypto|139 min|2006
+Mary Poppins|139 min|1964
+As Good as It Gets|139 min|1997
+Uri: The Surgical Strike|138 min|2018
+Shutter Island|138 min|2010
+L.A. Confidential|138 min|1997
+All About Eve|138 min|1950
+Sleuth|138 min|1972
+8½|138 min|1963
+Star Wars: Episode VII - The Force Awakens|138 min|2015
+Jab We Met|138 min|2007
+Mystic River|138 min|2003
+All the President's Men|138 min|1976
+Raazi|138 min|2018
+A Few Good Men|138 min|1992
+Zulu|138 min|1964
+Victoria|138 min|2015
+Close Encounters of the Third Kind|138 min|1977
+Terminator 2: Judgment Day|137 min|1991
+The Lives of Others|137 min|2006
+Aliens|137 min|1986
+Logan|137 min|2017
+Kaguyahime no monogatari|137 min|2013
+Kill Bill: Vol. 2|137 min|2004
+Yeopgijeogin geunyeo|137 min|2001
+Rosemary's Baby|137 min|1968
+Marriage Story|137 min|2019
+Manchester by the Sea|137 min|2016
+Beasts of No Nation|137 min|2015
+Just Mercy|137 min|2019
+The Matrix|136 min|1999
+A Clockwork Orange|136 min|1971
+North by Northwest|136 min|1959
+Tôkyô monogatari|136 min|1953
+Pink|136 min|2016
+Secrets & Lies|136 min|1996
+Walk the Line|136 min|2005
+Captain America: The Winter Soldier|136 min|2014
+Guardians of the Galaxy Vol. 2|136 min|2017
+A Star Is Born|136 min|2018
+Sense and Sensibility|136 min|1995
+Paan Singh Tomar|135 min|2012
+A Beautiful Mind|135 min|2001
+The Red Shoes|135 min|1948
+Sling Blade|135 min|1996
+Little Women|135 min|2019
+The Outlaw Josey Wales|135 min|1976
+Roma|135 min|2018
+25th Hour|135 min|2002
+The Bridges of Madison County|135 min|1995
+Mononoke-hime|134 min|1997
+Udaan|134 min|2010
+12 Years a Slave|134 min|2013
+What Ever Happened to Baby Jane?|134 min|1962
+Bohemian Rhapsody|134 min|2018
+The Hustler|134 min|1961
+The Lion in Winter|134 min|1968
+English Vinglish|134 min|2012
+Captain Phillips|134 min|2013
+The Remains of the Day|134 min|1993
+Brokeback Mountain|134 min|2005
+Happiness|134 min|1998
+Only the Brave|134 min|2017
+Lost Highway|134 min|1997
+One Flew Over the Cuckoo's Nest|133 min|1975
+Seppuku|133 min|1962
+In the Name of the Father|133 min|1993
+Rain Man|133 min|1988
+The Blues Brothers|133 min|1980
+Rogue One|133 min|2016
+Red River|133 min|1948
+Creed|133 min|2015
+Moneyball|133 min|2011
+Un long dimanche de fiançailles|133 min|2004
+Gisaengchung|132 min|2019
+Miracle in cell NO.7|132 min|2019
+Per qualche dollaro in più|132 min|1965
+Talvar|132 min|2015
+V for Vendetta|132 min|2005
+Die Hard|132 min|1988
+Million Dollar Baby|132 min|2004
+Call Me by Your Name|132 min|2017
+X-Men: Days of Future Past|132 min|2014
+Brazil|132 min|1985
+Naked|132 min|1993
+Star Trek Into Darkness|132 min|2013
+I Am Sam|132 min|2001
+Incendies|131 min|2010
+Star Wars: Episode VI - Return of the Jedi|131 min|1983
+Salinui chueok|131 min|2003
+Le salaire de la peur|131 min|1953
+Who's Afraid of Virginia Woolf?|131 min|1966
+La migliore offerta|131 min|2013
+The Count of Monte Cristo|131 min|2002
+X: First Class|131 min|2011
+Enemy at the Gates|131 min|2001
+Cidade de Deus|130 min|2002
+It's a Wonderful Life|130 min|1946
+The Prestige|130 min|2006
+Green Book|130 min|2018
+Unforgiven|130 min|1992
+Koe no katachi|130 min|2016
+Harry Potter and the Deathly Hallows: Part 2|130 min|2011
+Okuribito|130 min|2008
+Chinatown|130 min|1974
+Rebecca|130 min|1940
+Airlift|130 min|2016
+Being There|130 min|1979
+Knives Out|130 min|2019
+Thor: Ragnarok|130 min|2017
+Le passé|130 min|2013
+The Big Short|130 min|2015
+Tombstone|130 min|1993
+The Fugitive|130 min|1993
+Kai po che!|130 min|2013
+Fried Green Tomatoes|130 min|1991
+Der Name der Rose|130 min|1986
+Serpico|130 min|1973
+Dawn of the Planet of the Apes|130 min|2014
+The Sting|129 min|1973
+El secreto de sus ojos|129 min|2009
+Raging Bull|129 min|1980
+To Kill a Mockingbird|129 min|1962
+Spotlight|129 min|2015
+Mr. Smith Goes to Washington|129 min|1939
+Twelve Monkeys|129 min|1995
+The Grapes of Wrath|129 min|1940
+C.R.A.Z.Y.|129 min|2005
+Madeo|129 min|2009
+The Trial of the Chicago 7|129 min|2020
+Pride & Prejudice|129 min|2005
+The Game|129 min|1997
+Night on Earth|129 min|1991
+The Man Who Would Be King|129 min|1975
+Kingsman: The Secret Service|129 min|2014
+Primal Fear|129 min|1996
+The Verdict|129 min|1982
+The Quiet Man|129 min|1952
+The Blind Side|129 min|2009
+Inside Man|129 min|2006
+Boksuneun naui geot|129 min|2002
+Vertigo|128 min|1958
+Eskiya|128 min|1996
+Dead Poets Society|128 min|1989
+Inherit the Wind|128 min|1960
+La La Land|128 min|2016
+Nefes: Vatan Sagolsun|128 min|2009
+Der Himmel über Berlin|128 min|1987
+Lat sau san taam|128 min|1992
+Mississippi Burning|128 min|1988
+The Magnificent Seven|128 min|1960
+Sherlock Holmes|128 min|2009
+Die Hard: With a Vengeance|128 min|1995
+Se7en|127 min|1995
+Indiana Jones and the Last Crusade|127 min|1989
+Crna macka, beli macor|127 min|1998
+Jurassic Park|127 min|1993
+Cool Hand Luke|127 min|1967
+G.O.R.A.|127 min|2004
+Amour|127 min|2012
+Star Trek|127 min|2009
+Life of Pi|127 min|2012
+Dawn of the Dead|127 min|1978
+Hidden Figures|127 min|2016
+The World's Fastest Indian|127 min|2005
+Ed Wood|127 min|1994
+Donnie Brasco|127 min|1997
+Nelyubov|127 min|2017
+Stardust|127 min|2007
+Capharnaüm|126 min|2018
+Good Will Hunting|126 min|1997
+The Treasure of the Sierra Madre|126 min|1948
+Her|126 min|2013
+Mar adentro|126 min|2014
+Iron Man|126 min|2008
+The Manchurian Candidate|126 min|1962
+Vicky Donor|126 min|2012
+Kaze tachinu|126 min|2013
+Diarios de motocicleta|126 min|2004
+The Fault in Our Stars|126 min|2014
+Death Note: Desu nôto|126 min|2006
+The Fifth Element|126 min|1997
+Le locataire|126 min|1976
+Dark Waters|126 min|2019
+Sen to Chihiro no kamikakushi|125 min|2001
+Ayla: The Daughter of War|125 min|2017
+The Great Dictator|125 min|1940
+The Apartment|125 min|1960
+OMG: Oh My God!|125 min|2012
+Dà hóng denglong gaogao guà|125 min|1991
+Big Fish|125 min|2003
+Tenkû no shiro Rapyuta|125 min|1986
+Dog Day Afternoon|125 min|1975
+Chugyeokja|125 min|2008
+Philadelphia|125 min|1993
+Fantasia|125 min|1940
+Star Wars: Episode V - The Empire Strikes Back|124 min|1980
+The Elephant Man|124 min|1980
+Badhaai ho|124 min|2018
+Sin City|124 min|2005
+Akira|124 min|1988
+Jaws|124 min|1975
+Forushande|124 min|2016
+Cabaret|124 min|1972
+Ordinary People|124 min|1980
+Match Point|124 min|2005
+Synecdoche, New York|124 min|2008
+21 Grams|124 min|2003
+Blow|124 min|2001
+Jodaeiye Nader az Simin|123 min|2011
+Rush|123 min|2013
+The Man Who Shot Liberty Valance|123 min|1962
+All That Jazz|123 min|1979
+Amarcord|123 min|1973
+About Time|123 min|2013
+Atonement|123 min|2007
+The Notebook|123 min|2004
+The Theory of Everything|123 min|2014
+The Last King of Scotland|123 min|2006
+Seven Pounds|123 min|2008
+Joker|122 min|2019
+Anand|122 min|1971
+Amélie|122 min|2001
+American Beauty|122 min|1999
+Black|122 min|2005
+Portrait de la jeune fille en feu|122 min|2019
+Relatos salvajes|122 min|2014
+Kahaani|122 min|2012
+No Country for Old Men|122 min|2007
+The Exorcist|122 min|1973
+A Streetcar Named Desire|122 min|1951
+Almost Famous|122 min|2000
+Auf der anderen Seite|122 min|2007
+Glory|122 min|1989
+Silver Linings Playbook|122 min|2012
+Frost/Nixon|122 min|2008
+Control|122 min|2007
+3:10 to Yuma|122 min|2007
+Training Day|122 min|2001
+Lord of War|122 min|2005
+Star Wars|121 min|1977
+Some Like It Hot|121 min|1959
+Hotel Rwanda|121 min|2004
+Network|121 min|1976
+La battaglia di Algeri|121 min|1966
+Guardians of the Galaxy|121 min|2014
+Manbiki kazoku|121 min|2018
+Gegen die Wand|121 min|2004
+Hot Fuzz|121 min|2007
+A Bronx Tale|121 min|1993
+Awakenings|121 min|1990
+Good Bye Lenin!|121 min|2003
+Sicario|121 min|2015
+Dead Man|121 min|1995
+Midnight Express|121 min|1978
+Inception|2010
+Gisaengchung|2019
+Interstellar|2014
+Joker|2019
+Whiplash|2014
+The Intouchables|2011
+Capharnaüm|2018
+Ayla: The Daughter of War|2017
+Vikram Vedha|2017
+Kimi no na wa.|2016
+Dangal|2016
+Spider-Man: Into the Spider-Verse|2018
+Avengers: Endgame|2019
+Avengers: Infinity War|2018
+Coco|2017
+Django Unchained|2012
+The Dark Knight Rises|2012
+1917|2019
+Tumbbad|2018
+Andhadhun|2018
+Drishyam|2013
+Jagten|2012
+Jodaeiye Nader az Simin|2011
+Incendies|2010
+Miracle in cell NO.7|2019
+Chhichhore|2019
+Uri: The Surgical Strike|2018
+K.G.F: Chapter 1|2018
+Green Book|2018
+Three Billboards Outside Ebbing, Missouri|2017
+Talvar|2015
+Baahubali 2: The Conclusion|2017
+Klaus|2019
+Drishyam|2015
+Queen|2013
+Mandariinid|2013
+Bhaag Milkha Bhaag|2013
+Gangs of Wasseypur|2012
+Udaan|2010
+Paan Singh Tomar|2012
+Warrior|2011
+Shutter Island|2010
+The Wolf of Wall Street|2013
+Toy Story 3|2010
+Portrait de la jeune fille en feu|2019
+Pink|2016
+Koe no katachi|2016
+Contratiempo|2016
+Ah-ga-ssi|2016
+Mommy|2014
+Haider|2014
+Logan|2017
+Room|2015
+Relatos salvajes|2014
+Kis Uykusu|2014
+PK|2014
+OMG: Oh My God!|2012
+The Grand Budapest Hotel|2014
+Gone Girl|2014
+Ôkami kodomo no Ame to Yuki|2012
+Hacksaw Ridge|2016
+Inside Out|2015
+Barfi!|2012
+12 Years a Slave|2013
+Rush|2013
+Ford v Ferrari|2019
+Spotlight|2015
+Song of the Sea|2014
+Kahaani|2012
+Zindagi Na Milegi Dobara|2011
+Prisoners|2013
+Mad Max: Fury Road|2015
+Harry Potter and the Deathly Hallows: Part 2|2011
+How to Train Your Dragon|2010
+Badhaai ho|2018
+Togo|2019
+Airlift|2016
+Bajrangi Bhaijaan|2015
+Baby|2015
+La La Land|2016
+Lion|2016
+The Martian|2015
+Zootopia|2016
+Bãhubali: The Beginning|2015
+Kaguyahime no monogatari|2013
+Wonder|2017
+Gully Boy|2019
+Special Chabbis|2013
+Short Term 12|2013
+Serbuan maut 2: Berandal|2014
+The Imitation Game|2014
+Guardians of the Galaxy|2014
+Blade Runner 2049|2017
+Her|2013
+Bohemian Rhapsody|2018
+The Revenant|2015
+The Perks of Being a Wallflower|2012
+Tropa de Elite 2: O Inimigo Agora é Outro|2010
+The King's Speech|2010
+The Help|2011
+Deadpool|2016
+My Name Is Khan|2010
+Black Swan|2010
+The Avengers|2012
+Dallas Buyers Club|2013
+Mar adentro|2014
+Knives Out|2019
+Manbiki kazoku|2018
+Marriage Story|2019
+Call Me by Your Name|2017
+I, Daniel Blake|2016
+Isle of Dogs|2018
+Hunt for the Wilderpeople|2016
+Captain Fantastic|2016
+Sing Street|2016
+Thor: Ragnarok|2017
+Nightcrawler|2014
+Jojo Rabbit|2019
+Arrival|2016
+Star Wars: Episode VII - The Force Awakens|2015
+Before Midnight|2013
+X-Men: Days of Future Past|2014
+Bir Zamanlar Anadolu'da|2011
+The Artist|2011
+Edge of Tomorrow|2014
+Amour|2012
+The Irishman|2019
+Boyhood|2014
+Life of Pi|2012
+The Gentlemen|2019
+Raazi|2018
+Sound of Metal|2019
+Forushande|2016
+Dunkirk|2017
+Perfetti sconosciuti|2016
+Hidden Figures|2016
+Paddington 2|2017
+Udta Punjab|2016
+Kubo and the Two Strings|2016
+M.S. Dhoni: The Untold Story|2016
+Manchester by the Sea|2016
+Under sandet|2015
+Rogue One|2016
+Captain America: Civil War|2016
+The Hateful Eight|2015
+Little Women|2019
+Loving Vincent|2017
+Pride|2014
+Le passé|2013
+La grande bellezza|2013
+The Lunchbox|2013
+Vicky Donor|2012
+Big Hero 6|2014
+About Time|2013
+English Vinglish|2012
+Kaze tachinu|2013
+Toy Story 4|2019
+La migliore offerta|2013
+Moonrise Kingdom|2012
+How to Train Your Dragon 2|2014
+The Big Short|2015
+Kokuhaku|2010
+Ang-ma-reul bo-at-da|2010
+The Girl with the Dragon Tattoo|2011
+Captain Phillips|2013
+Ajeossi|2010
+Straight Outta Compton|2015
+The Hobbit: The Desolation of Smaug|2013
+The Fighter|2010
+The Hobbit: An Unexpected Journey|2012
+Drive|2011
+Roma|2018
+God's Own Country|2017
+Deadpool 2|2018
+Wind River|2017
+Get Out|2017
+Mission: Impossible - Fallout|2018
+En man som heter Ove|2015
+What We Do in the Shadows|2014
+Omoide no Mânî|2014
+The Theory of Everything|2014
+Kingsman: The Secret Service|2014
+The Fault in Our Stars|2014
+Me and Earl and the Dying Girl|2015
+Birdman or (The Unexpected Virtue of Ignorance)|2014
+La vie d'Adèle|2013
+Kai po che!|2013
+The Broken Circle Breakdown|2012
+Captain America: The Winter Soldier|2014
+Rockstar|2011
+Nebraska|2013
+Wreck-It Ralph|2012
+Le Petit Prince|2015
+Detachment|2011
+Midnight in Paris|2011
+The Lego Movie|2014
+Gravity|2013
+Star Trek Into Darkness|2013
+Beasts of No Nation|2015
+The Social Network|2010
+X: First Class|2011
+Skyfall|2012
+Silver Linings Playbook|2012
+Argo|2012
+Harry Potter and the Deathly Hallows: Part 1|2010
+Flipped|2010
+Ex Machina|2014
+Tangled|2010
+Dark Waters|2019
+Searching|2018
+Once Upon a Time... in Hollywood|2019
+Nelyubov|2017
+The Florida Project|2017
+Just Mercy|2019
+Gifted|2017
+The Peanut Butter Falcon|2019
+Victoria|2015
+Mustang|2015
+Guardians of the Galaxy Vol. 2|2017
+Baby Driver|2017
+Only the Brave|2017
+Bridge of Spies|2015
+Incredibles 2|2018
+Moana|2016
+Sicario|2015
+Creed|2015
+Leviafan|2014
+Hell or High Water|2016
+Philomena|2013
+Dawn of the Planet of the Apes|2014
+El cuerpo|2012
+Serbuan maut|2011
+End of Watch|2012
+Kari-gurashi no Arietti|2010
+A Star Is Born|2018
+True Grit|2010
+Hævnen|2010
+Despicable Me|2010
+50/50|2011
+Kick-Ass|2010
+Moneyball|2011
+La piel que habito|2011
+The Shawshank Redemption
+The Godfather
+The Dark Knight
+The Godfather: Part II
+The Lord of the Rings: The Return of the King
+The Lord of the Rings: The Fellowship of the Ring
+The Lord of the Rings: The Two Towers
+The Matrix
+Star Wars: Episode V - The Empire Strikes Back
+One Flew Over the Cuckoo's Nest
+The Green Mile
+The Silence of the Lambs
+The Intouchables
+The Prestige
+The Departed
+The Pianist
+The Usual Suspects
+The Lion King
+Back to the Future
+Once Upon a Time in the West
+Ayla: The Daughter of War
+Spider-Man: Into the Spider-Verse
+The Dark Knight Rises
+The Lives of Others
+Raiders of the Lost Ark
+The Shining
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Witness for the Prosecution
+The Great Dictator
+Eternal Sunshine of the Spotless Mind
+Star Wars: Episode VI - Return of the Jedi
+The Sting
+The Apartment
+Singin' in the Rain
+The Kid
+Uri: The Surgical Strike
+Baahubali 2: The Conclusion
+The Wolf of Wall Street
+There Will Be Blood
+Swades: We, the People
+Indiana Jones and the Last Crusade
+The Message
+Monty Python and the Holy Grail
+The Great Escape
+The Treasure of the Sierra Madre
+The Gold Rush
+The Grand Budapest Hotel
+Song of the Sea
+Harry Potter and the Deathly Hallows: Part 2
+Into the Wild
+The Sixth Sense
+The Truman Show
+The Big Lebowski
+In the Name of the Father
+The Thing
+Pink Floyd: The Wall
+The Elephant Man
+The Deer Hunter
+The Man Who Shot Liberty Valance
+Inherit the Wind
+The Bridge on the River Kwai
+On the Waterfront
+Ace in the Hole
+The Third Man
+The Red Shoes
+The Shop Around the Corner
+Gone with the Wind
+The Circus
+The General
+The Martian
+Bãhubali: The Beginning
+The Imitation Game
+Guardians of the Galaxy
+The Revenant
+The Perks of Being a Wallflower
+The King's Speech
+The Help
+The Avengers
+The Pursuit of Happyness
+The Bourne Ultimatum
+Pirates of the Caribbean: The Curse of the Black Pearl
+The Incredibles
+Dancer in the Dark
+The Straight Story
+The Iron Giant
+The Nightmare Before Christmas
+Beauty and the Beast
+Do the Right Thing
+The Princess Bride
+The Terminator
+Being There
+The Exorcist
+The Last Picture Show
+Fiddler on the Roof
+Butch Cassidy and the Sundance Kid
+Planet of the Apes
+The Graduate
+The Sound of Music
+The Hustler
+The Killing
+The Night of the Hunter
+Out of the Past
+The Best Years of Our Lives
+The Maltese Falcon
+The Grapes of Wrath
+The Wizard of Oz
+The Thin Man
+All Quiet on the Western Front
+Hunt for the Wilderpeople
+Star Wars: Episode VII - The Force Awakens
+The Artist
+The Irishman
+The Wrestler
+The Man from Earth
+The Fall
+Shaun of the Dead
+Harry Potter and the Prisoner of Azkaban
+The Bourne Identity
+My Left Foot: The Story of Christy Brown
+The Untouchables
+The Blues Brothers
+Dawn of the Dead
+All the President's Men
+The Wild Bunch
+Night of the Living Dead
+The Lion in Winter
+In the Heat of the Night
+The Manchurian Candidate
+The Ten Commandments
+The Searchers
+The Big Sleep
+The Lost Weekend
+The Philadelphia Story
+The Adventures of Robin Hood
+A Night at the Opera
+The Gentlemen
+Kubo and the Two Strings
+M.S. Dhoni: The Untold Story
+Manchester by the Sea
+The Hateful Eight
+The Lunchbox
+The Big Short
+The Girl with the Dragon Tattoo
+The Hobbit: The Desolation of Smaug
+The Trial of the Chicago 7
+The Fighter
+The Boy in the Striped Pyjamas
+The Hobbit: An Unexpected Journey
+The Curious Case of Benjamin Button
+The World's Fastest Indian
+Walk the Line
+The Notebook
+The Count of Monte Cristo
+Remember the Titans
+The Boondock Saints
+The Insider
+The Game
+Breaking the Waves
+The Sandlot
+The Remains of the Day
+The Fugitive
+Batman: Mask of the Phantasm
+Boyz n the Hood
+Back to the Future Part II
+The Goonies
+The Color Purple
+The Breakfast Club
+The Killing Fields
+The Right Stuff
+The King of Comedy
+E.T. the Extra-Terrestrial
+The Outlaw Josey Wales
+The Man Who Would Be King
+The Conversation
+The Day of the Jackal
+Willy Wonka & the Chocolate Factory
+The Longest Day
+The Innocents
+The Lady Vanishes
+Scarface: The Shame of the Nation
+What We Do in the Shadows
+The Theory of Everything
+Kingsman: The Secret Service
+The Fault in Our Stars
+Me and Earl and the Dying Girl
+Birdman or (The Unexpected Virtue of Ignorance)
+The Broken Circle Breakdown
+Captain America: The Winter Soldier
+The Lego Movie
+The Social Network
+The Hangover
+Harry Potter and the Deathly Hallows: Part 1
+The Last King of Scotland
+The Bourne Supremacy
+The Machinist
+Harry Potter and the Goblet of Fire
+The Last Samurai
+The Magdalene Sisters
+Hedwig and the Angry Inch
+O Brother, Where Art Thou?
+Interstate 60: Episodes of the Road
+The Fifth Element
+The Muppet Christmas Carol
+The Last of the Mohicans
+The Last Emperor
+Empire of the Sun
+The Purple Rose of Cairo
+The Verdict
+Star Trek II: The Wrath of Khan
+The Taking of Pelham One Two Three
+Enter the Dragon
+The French Connection
+The Odd Couple
+The Dirty Dozen
+The Birds
+The Magnificent Seven
+Invasion of the Body Snatchers
+The Ladykillers
+The Quiet Man
+The Day the Earth Stood Still
+The African Queen
+The Invisible Man
+The Florida Project
+The Peanut Butter Falcon
+Guardians of the Galaxy Vol. 2
+Only the Brave
+Dawn of the Planet of the Apes
+The Blind Side
+The Visitor
+The Secret of Kells
+The Illusionist
+Harry Potter and the Half-Blood Prince
+The Station Agent
+The Butterfly Effect
+The Royal Tenenbaums
+Harry Potter and the Sorcerer's Stone
+The Others
+Enemy at the Gates
+The Hurricane
+The Thin Red Line
+The Bridges of Madison County
+The Godfather: Part III
+The Little Mermaid
+The Naked Gun: From the Files of Police Squad!
+The Warriors
+The Muppet Movie
+Close Encounters of the Third Kind
+The Long Goodbye
+The Jungle Book
+The 39 Steps
+Saving Private Ryan
+The Pianist
+American History X
+Apocalypse Now
+Alien
+1917
+Jagten
+Incendies
+Reservoir Dogs
+Amadeus
+Das Boot
+El secreto de sus ojos
+Der Untergang
+Dom za vesanje
+Portrait de la jeune fille en feu
+Mommy
+Room
+Relatos salvajes
+Gran Torino
+Into the Wild
+00s|237
+10s|242
+20s|7
+80s|89
+90s|150
+<= 70s|275
+|101|7.93168316831683
+16|1|8.1
+A|197|7.9989847715736
+Approved|11|7.94545454545455
+G|12|8.0
+GP|2|7.85
+PG|37|7.92702702702703
+PG-13|43|7.79767441860465
+Passed|34|8.02058823529412
+R|146|7.86986301369863
+TV-14|1|8.3
+TV-MA|1|8.1
+TV-PG|3|7.9
+U|234|7.97692307692308
+U/A|1|7.6
+UA|175|7.95714285714286
+Unrated|1|8.1
+Alfred Hitchcock|14
+Steven Spielberg|13
+Hayao Miyazaki|11
+Martin Scorsese|10
+Akira Kurosawa|10
+Woody Allen|9
+Stanley Kubrick|9
+Billy Wilder|9
+Quentin Tarantino|8
+David Fincher|8
+The Shawshank Redemption|9.3
+The Godfather|9.2
+The Dark Knight|9
+The Godfather: Part II|9
+12 Angry Men|9
+The Lord of the Rings: The Return of the King|8.9
+Pulp Fiction|8.9
+Schindler's List|8.9
+Inception|8.8
+Fight Club|8.8
+The Lord of the Rings: The Fellowship of the Ring|8.8
+Forrest Gump|8.8
+Il buono, il brutto, il cattivo|8.8
+The Lord of the Rings: The Two Towers|8.7
+The Matrix|8.7
+Goodfellas|8.7
+Star Wars: Episode V - The Empire Strikes Back|8.7
+One Flew Over the Cuckoo's Nest|8.7
+Hamilton|8.6
+Gisaengchung|8.6
+Soorarai Pottru|8.6
+Interstellar|8.6
+Cidade de Deus|8.6
+Sen to Chihiro no kamikakushi|8.6
+Saving Private Ryan|8.6
+The Green Mile|8.6
+La vita è bella|8.6
+Se7en|8.6
+The Silence of the Lambs|8.6
+Star Wars|8.6
+Seppuku|8.6
+Shichinin no samurai|8.6
+It's a Wonderful Life|8.6
+Joker|8.5
+Whiplash|8.5
+The Intouchables|8.5
+The Prestige|8.5
+The Departed|8.5
+The Pianist|8.5
+Gladiator|8.5
+American History X|8.5
+The Usual Suspects|8.5
+Léon|8.5
+The Lion King|8.5
+Terminator 2: Judgment Day|8.5
+Nuovo Cinema Paradiso|8.5
+Hotaru no haka|8.5
+Back to the Future|8.5
+Once Upon a Time in the West|8.5
+Psycho|8.5
+Casablanca|8.5
+Modern Times|8.5
+City Lights|8.5
+Capharnaüm|8.4
+Ayla: The Daughter of War|8.4
+Vikram Vedha|8.4
+Kimi no na wa.|8.4
+Dangal|8.4
+Spider-Man: Into the Spider-Verse|8.4
+Avengers: Endgame|8.4
+Avengers: Infinity War|8.4
+Coco|8.4
+Django Unchained|8.4
+The Dark Knight Rises|8.4
+3 Idiots|8.4
+Taare Zameen Par|8.4
+WALL·E|8.4
+The Lives of Others|8.4
+Oldeuboi|8.4
+Memento|8.4
+Mononoke-hime|8.4
+Once Upon a Time in America|8.4
+Raiders of the Lost Ark|8.4
+The Shining|8.4
+Apocalypse Now|8.4
+Alien|8.4
+Anand|8.4
+Tengoku to jigoku|8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|8.4
+Witness for the Prosecution|8.4
+Paths of Glory|8.4
+Rear Window|8.4
+Sunset Blvd.|8.4
+The Great Dictator|8.4
+1917|8.3
+Tumbbad|8.3
+Andhadhun|8.3
+Drishyam|8.3
+Jagten|8.3
+Jodaeiye Nader az Simin|8.3
+Incendies|8.3
+Miracle in cell NO.7|8.3
+Babam ve Oglum|8.3
+Inglourious Basterds|8.3
+Eternal Sunshine of the Spotless Mind|8.3
+Amélie|8.3
+Snatch|8.3
+Requiem for a Dream|8.3
+American Beauty|8.3
+Good Will Hunting|8.3
+Bacheha-Ye aseman|8.3
+Toy Story|8.3
+Braveheart|8.3
+Reservoir Dogs|8.3
+Full Metal Jacket|8.3
+Idi i smotri|8.3
+Aliens|8.3
+Amadeus|8.3
+Scarface|8.3
+Star Wars: Episode VI - Return of the Jedi|8.3
+Das Boot|8.3
+Taxi Driver|8.3
+The Sting|8.3
+A Clockwork Orange|8.3
+2001: A Space Odyssey|8.3
+Per qualche dollaro in più|8.3
+Lawrence of Arabia|8.3
+The Apartment|8.3
+North by Northwest|8.3
+Vertigo|8.3
+Singin' in the Rain|8.3
+Ikiru|8.3
+Ladri di biciclette|8.3
+Double Indemnity|8.3
+Citizen Kane|8.3
+M - Eine Stadt sucht einen Mörder|8.3
+Metropolis|8.3
+The Kid|8.3
+Chhichhore|8.2
+Uri: The Surgical Strike|8.2
+K.G.F: Chapter 1|8.2
+Green Book|8.2
+Three Billboards Outside Ebbing, Missouri|8.2
+Talvar|8.2
+Baahubali 2: The Conclusion|8.2
+Klaus|8.2
+Drishyam|8.2
+Queen|8.2
+Mandariinid|8.2
+Bhaag Milkha Bhaag|8.2
+Gangs of Wasseypur|8.2
+Udaan|8.2
+Paan Singh Tomar|8.2
+El secreto de sus ojos|8.2
+Warrior|8.2
+Shutter Island|8.2
+Up|8.2
+The Wolf of Wall Street|8.2
+Chak De! India|8.2
+There Will Be Blood|8.2
+Pan's Labyrinth|8.2
+Toy Story 3|8.2
+V for Vendetta|8.2
+Rang De Basanti|8.2
+Black|8.2
+Batman Begins|8.2
+Swades: We, the People|8.2
+Der Untergang|8.2
+Hauru no ugoku shiro|8.2
+A Beautiful Mind|8.2
+Hera Pheri|8.2
+Lock, Stock and Two Smoking Barrels|8.2
+L.A. Confidential|8.2
+Eskiya|8.2
+Heat|8.2
+Casino|8.2
+Andaz Apna Apna|8.2
+Unforgiven|8.2
+Indiana Jones and the Last Crusade|8.2
+Dom za vesanje|8.2
+Tonari no Totoro|8.2
+Die Hard|8.2
+Ran|8.2
+Raging Bull|8.2
+Stalker|8.2
+Höstsonaten|8.2
+The Message|8.2
+Sholay|8.2
+Monty Python and the Holy Grail|8.2
+The Great Escape|8.2
+To Kill a Mockingbird|8.2
+Yôjinbô|8.2
+Judgment at Nuremberg|8.2
+Some Like It Hot|8.2
+Smultronstället|8.2
+Det sjunde inseglet|8.2
+Du rififi chez les hommes|8.2
+Dial M for Murder|8.2
+Tôkyô monogatari|8.2
+Rashômon|8.2
+All About Eve|8.2
+The Treasure of the Sierra Madre|8.2
+To Be or Not to Be|8.2
+The Gold Rush|8.2
+Sherlock Jr.|8.2
+Portrait de la jeune fille en feu|8.1
+Pink|8.1
+Koe no katachi|8.1
+Contratiempo|8.1
+Ah-ga-ssi|8.1
+Mommy|8.1
+Haider|8.1
+Logan|8.1
+Room|8.1
+Relatos salvajes|8.1
+Soul|8.1
+Kis Uykusu|8.1
+PK|8.1
+OMG: Oh My God!|8.1
+The Grand Budapest Hotel|8.1
+Gone Girl|8.1
+Ôkami kodomo no Ame to Yuki|8.1
+Hacksaw Ridge|8.1
+Inside Out|8.1
+Barfi!|8.1
+12 Years a Slave|8.1
+Rush|8.1
+Ford v Ferrari|8.1
+Spotlight|8.1
+Song of the Sea|8.1
+Kahaani|8.1
+Zindagi Na Milegi Dobara|8.1
+Prisoners|8.1
+Mad Max: Fury Road|8.1
+A Wednesday|8.1
+Gran Torino|8.1
+Harry Potter and the Deathly Hallows: Part 2|8.1
+Okuribito|8.1
+Hachi: A Dog's Tale|8.1
+Mary and Max|8.1
+How to Train Your Dragon|8.1
+Into the Wild|8.1
+No Country for Old Men|8.1
+Lage Raho Munna Bhai|8.1
+Million Dollar Baby|8.1
+Hotel Rwanda|8.1
+Taegukgi hwinalrimyeo|8.1
+Before Sunset|8.1
+Munna Bhai M.B.B.S.|8.1
+Salinui chueok|8.1
+Dil Chahta Hai|8.1
+Kill Bill: Vol. 1|8.1
+Finding Nemo|8.1
+Catch Me If You Can|8.1
+Amores perros|8.1
+Monsters, Inc.|8.1
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni|8.1
+Lagaan: Once Upon a Time in India|8.1
+The Sixth Sense|8.1
+La leggenda del pianista sull'oceano|8.1
+The Truman Show|8.1
+Crna macka, beli macor|8.1
+The Big Lebowski|8.1
+Fa yeung nin wah|8.1
+Trainspotting|8.1
+Fargo|8.1
+Underground|8.1
+La haine|8.1
+Dilwale Dulhania Le Jayenge|8.1
+Before Sunrise|8.1
+Trois couleurs: Rouge|8.1
+Chung Hing sam lam|8.1
+Jurassic Park|8.1
+In the Name of the Father|8.1
+Ba wang bie ji|8.1
+Dà hóng denglong gaogao guà|8.1
+Dead Poets Society|8.1
+Stand by Me|8.1
+Platoon|8.1
+Paris, Texas|8.1
+Kaze no tani no Naushika|8.1
+The Thing|8.1
+Pink Floyd: The Wall|8.1
+Fitzcarraldo|8.1
+Fanny och Alexander|8.1
+Blade Runner|8.1
+The Elephant Man|8.1
+Life of Brian|8.1
+The Deer Hunter|8.1
+Rocky|8.1
+Network|8.1
+Barry Lyndon|8.1
+Zerkalo|8.1
+Chinatown|8.1
+Paper Moon|8.1
+Viskningar och rop|8.1
+Solaris|8.1
+Le samouraï|8.1
+Cool Hand Luke|8.1
+Persona|8.1
+Andrei Rublev|8.1
+La battaglia di Algeri|8.1
+El ángel exterminador|8.1
+What Ever Happened to Baby Jane?|8.1
+Sanjuro|8.1
+The Man Who Shot Liberty Valance|8.1
+Ivanovo detstvo|8.1
+Jungfrukällan|8.1
+Inherit the Wind|8.1
+Les quatre cents coups|8.1
+Ben-Hur|8.1
+Kakushi-toride no san-akunin|8.1
+Le notti di Cabiria|8.1
+Kumonosu-jô|8.1
+The Bridge on the River Kwai|8.1
+On the Waterfront|8.1
+Le salaire de la peur|8.1
+Ace in the Hole|8.1
+White Heat|8.1
+The Third Man|8.1
+The Red Shoes|8.1
+The Shop Around the Corner|8.1
+Rebecca|8.1
+Mr. Smith Goes to Washington|8.1
+Gone with the Wind|8.1
+La Grande Illusion|8.1
+It Happened One Night|8.1
+La passion de Jeanne d'Arc|8.1
+The Circus|8.1
+Sunrise: A Song of Two Humans|8.1
+The General|8.1
+Das Cabinet des Dr. Caligari|8.1
+Badhaai ho|8
+Togo|8
+Airlift|8
+Bajrangi Bhaijaan|8
+Baby|8
+La La Land|8
+Lion|8
+The Martian|8
+Zootopia|8
+Bãhubali: The Beginning|8
+Kaguyahime no monogatari|8
+Wonder|8
+Gully Boy|8
+Special Chabbis|8
+Short Term 12|8
+Serbuan maut 2: Berandal|8
+The Imitation Game|8
+Guardians of the Galaxy|8
+Blade Runner 2049|8
+Her|8
+Bohemian Rhapsody|8
+The Revenant|8
+The Perks of Being a Wallflower|8
+Tropa de Elite 2: O Inimigo Agora é Outro|8
+The King's Speech|8
+The Help|8
+Deadpool|8
+Darbareye Elly|8
+Dev.D|8
+Yip Man|8
+My Name Is Khan|8
+Nefes: Vatan Sagolsun|8
+Slumdog Millionaire|8
+Black Swan|8
+Tropa de Elite|8
+The Avengers|8
+Persepolis|8
+Dallas Buyers Club|8
+The Pursuit of Happyness|8
+Blood Diamond|8
+The Bourne Ultimatum|8
+Bin-jip|8
+Sin City|8
+Le scaphandre et le papillon|8
+G.O.R.A.|8
+Ratatouille|8
+Casino Royale|8
+Kill Bill: Vol. 2|8
+Vozvrashchenie|8
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom|8
+Mar adentro|8
+Cinderella Man|8
+Kal Ho Naa Ho|8
+Mou gaan dou|8
+Pirates of the Caribbean: The Curse of the Black Pearl|8
+Big Fish|8
+The Incredibles|8
+Yeopgijeogin geunyeo|8
+Dogville|8
+Vizontele|8
+Donnie Darko|8
+Magnolia|8
+Dancer in the Dark|8
+The Straight Story|8
+Pâfekuto burû|8
+Festen|8
+Central do Brasil|8
+The Iron Giant|8
+Knockin' on Heaven's Door|8
+Sling Blade|8
+Secrets & Lies|8
+Twelve Monkeys|8
+Kôkaku Kidôtai|8
+The Nightmare Before Christmas|8
+Groundhog Day|8
+Bound by Honor|8
+Scent of a Woman|8
+Aladdin|8
+JFK|8
+Beauty and the Beast|8
+Dances with Wolves|8
+Do the Right Thing|8
+Rain Man|8
+Akira|8
+The Princess Bride|8
+Der Himmel über Berlin|8
+Au revoir les enfants|8
+Tenkû no shiro Rapyuta|8
+The Terminator|8
+Gandhi|8
+Kagemusha|8
+Being There|8
+Annie Hall|8
+Jaws|8
+Dog Day Afternoon|8
+Young Frankenstein|8
+Papillon|8
+The Exorcist|8
+Sleuth|8
+The Last Picture Show|8
+Fiddler on the Roof|8
+Il conformista|8
+Butch Cassidy and the Sundance Kid|8
+Rosemary's Baby|8
+Planet of the Apes|8
+The Graduate|8
+Who's Afraid of Virginia Woolf?|8
+The Sound of Music|8
+Doctor Zhivago|8
+Per un pugno di dollari|8
+8½|8
+Vivre sa vie: Film en douze tableaux|8
+The Hustler|8
+La dolce vita|8
+Rio Bravo|8
+Anatomy of a Murder|8
+Touch of Evil|8
+Cat on a Hot Tin Roof|8
+Sweet Smell of Success|8
+The Killing|8
+The Night of the Hunter|8
+La Strada|8
+Les diaboliques|8
+Stalag 17|8
+Roman Holiday|8
+A Streetcar Named Desire|8
+In a Lonely Place|8
+Kind Hearts and Coronets|8
+Rope|8
+Out of the Past|8
+Brief Encounter|8
+Laura|8
+The Best Years of Our Lives|8
+Arsenic and Old Lace|8
+The Maltese Falcon|8
+The Grapes of Wrath|8
+The Wizard of Oz|8
+La règle du jeu|8
+The Thin Man|8
+All Quiet on the Western Front|8
+Bronenosets Potemkin|8
+Gangs of Wasseypur|321 min|Epic
+Hamlet|242 min|Epic
+Gone with the Wind|238 min|Epic
+Once Upon a Time in America|229 min|Epic
+Lawrence of Arabia|228 min|Epic
+Lagaan: Once Upon a Time in India|224 min|Epic
+The Ten Commandments|220 min|Epic
+Ben-Hur|212 min|Epic
+Swades: We, the People|210 min|Epic
+The Irishman|209 min|Epic
+Shichinin no samurai|207 min|Epic
+Andrei Rublev|205 min|Epic
+Sholay|204 min|Epic
+The Godfather: Part II|202 min|Epic
+Malcolm X|202 min|Epic
+The Lord of the Rings: The Return of the King|201 min|Epic
+Giant|201 min|Epic
+Doctor Zhivago|197 min|Epic
+Spartacus|197 min|Epic
+Kis Uykusu|196 min|Epic
+Schindler's List|195 min|Epic
+Titanic|194 min|Epic
+The Right Stuff|193 min|Epic
+Veer-Zaara|192 min|Epic
+Gandhi|191 min|Epic
+The Green Mile|189 min|Epic
+Dilwale Dulhania Le Jayenge|189 min|Epic
+JFK|189 min|Epic
+Fanny och Alexander|188 min|Epic
+Magnolia|188 min|Epic
+Short Cuts|188 min|Epic
+Bhaag Milkha Bhaag|186 min|Epic
+Kal Ho Naa Ho|186 min|Epic
+Barry Lyndon|185 min|Epic
+M.S. Dhoni: The Untold Story|184 min|Epic
+Dil Chahta Hai|183 min|Epic
+The Deer Hunter|183 min|Epic
+Avengers: Endgame|181 min|Epic
+Dances with Wolves|181 min|Epic
+Fiddler on the Roof|181 min|Epic
+The Wolf of Wall Street|180 min|Epic
+Bound by Honor|180 min|Epic
+Kagemusha|180 min|Epic
+La vie d'Adèle|180 min|Epic
+The Lord of the Rings: The Two Towers|179 min|Epic
+Judgment at Nuremberg|179 min|Epic
+The Lord of the Rings: The Fellowship of the Ring|178 min|Epic
+Braveheart|178 min|Epic
+Casino|178 min|Epic
+Dogville|178 min|Epic
+The Longest Day|178 min|Epic
+The Message|177 min|Epic
+The Godfather|175 min|Epic
+La dolce vita|174 min|Epic
+The Great Escape|172 min|Epic
+The Sound of Music|172 min|Epic
+Patton|172 min|Epic
+Ba wang bie ji|171 min|Epic
+3 Idiots|170 min|Epic
+Scarface|170 min|Epic
+Heat|170 min|Epic
+Underground|170 min|Epic
+The Best Years of Our Lives|170 min|Epic
+My Fair Lady|170 min|Epic
+The Thin Red Line|170 min|Epic
+Interstellar|169 min|Epic
+Saving Private Ryan|169 min|Epic
+La leggenda del pianista sull'oceano|169 min|Epic
+The Hobbit: An Unexpected Journey|169 min|Epic
+The Hateful Eight|168 min|Epic
+Baahubali 2: The Conclusion|167 min|Epic
+Rang De Basanti|167 min|Epic
+Solaris|167 min|Epic
+The Curious Case of Benjamin Button|166 min|Epic
+Once Upon a Time in the West|165 min|Epic
+Django Unchained|165 min|Epic
+Taare Zameen Par|165 min|Epic
+My Name Is Khan|165 min|Epic
+Boyhood|165 min|Epic
+The Dark Knight Rises|164 min|Epic
+Blade Runner 2049|164 min|Epic
+Drishyam|163 min|Epic
+Bajrangi Bhaijaan|163 min|Epic
+The Last Emperor|163 min|Epic
+Ran|162 min|Epic
+Stalker|162 min|Epic
+Avatar|162 min|Epic
+Watchmen|162 min|Epic
+The Godfather: Part III|162 min|Epic
+Il buono, il brutto, il cattivo|161 min|Epic
+Dangal|161 min|Epic
+The Bridge on the River Kwai|161 min|Epic
+Anatomy of a Murder|161 min|Epic
+The Hobbit: The Desolation of Smaug|161 min|Epic
+Once Upon a Time... in Hollywood|161 min|Epic
+Hamilton|160 min|Epic
+Drishyam|160 min|Epic
+Amadeus|160 min|Epic
+Andaz Apna Apna|160 min|Epic
+Haider|160 min|Epic
+Baby|159 min|Epic
+Bãhubali: The Beginning|159 min|Epic
+Breaking the Waves|159 min|Epic
+Rockstar|159 min|Epic
+There Will Be Blood|158 min|Epic
+Fitzcarraldo|158 min|Epic
+The Girl with the Dragon Tattoo|158 min|Epic
+Where Eagles Dare|158 min|Epic
+Bir Zamanlar Anadolu'da|157 min|Epic
+American Gangster|157 min|Epic
+The Insider|157 min|Epic
+Zodiac|157 min|Epic
+Harry Potter and the Goblet of Fire|157 min|Epic
+Giù la testa|157 min|Epic
+K.G.F: Chapter 1|156 min|Epic
+Der Untergang|156 min|Epic
+Hera Pheri|156 min|Epic
+Munna Bhai M.B.B.S.|156 min|Epic
+The Revenant|156 min|Epic
+Scent of a Woman|156 min|Epic
+Gladiator|155 min|Epic
+Nuovo Cinema Paradiso|155 min|Epic
+Zindagi Na Milegi Dobara|155 min|Epic
+Un prophète|155 min|Epic
+Boogie Nights|155 min|Epic
+Pulp Fiction|154 min|Epic
+Amores perros|154 min|Epic
+Gully Boy|154 min|Epic
+The Color Purple|154 min|Epic
+The Last Samurai|154 min|Epic
+Soorarai Pottru|153 min|Epic
+Inglourious Basterds|153 min|Epic
+Metropolis|153 min|Epic
+Chak De! India|153 min|Epic
+PK|153 min|Epic
+Prisoners|153 min|Epic
+Empire of the Sun|153 min|Epic
+Harry Potter and the Half-Blood Prince|153 min|Epic
+The Dark Knight|152 min|Epic
+Ford v Ferrari|152 min|Epic
+All Quiet on the Western Front|152 min|Epic
+Män som hatar kvinnor|152 min|Epic
+Ray|152 min|Epic
+Harry Potter and the Sorcerer's Stone|152 min|Epic
+The Departed|151 min|Epic
+Barfi!|151 min|Epic
+Papillon|151 min|Epic
+The Pianist|150 min|Epic
+Serbuan maut 2: Berandal|150 min|Epic
+The Dirty Dozen|150 min|Epic
+Avengers: Infinity War|149 min|Long
+Das Boot|149 min|Long
+2001: A Space Odyssey|149 min|Long
+Gone Girl|149 min|Long
+Inception|148 min|Long
+Into the Wild|148 min|Long
+Udta Punjab|148 min|Long
+Vikram Vedha|147 min|Long
+Apocalypse Now|147 min|Long
+Mulholland Dr.|147 min|Long
+Captain America: Civil War|147 min|Long
+Straight Outta Compton|147 min|Long
+Mission: Impossible - Fallout|147 min|Long
+Sleepers|147 min|Long
+Goodfellas|146 min|Long
+The Shining|146 min|Long
+Queen|146 min|Long
+The Help|146 min|Long
+Harry Potter and the Deathly Hallows: Part 1|146 min|Long
+Man on Fire|146 min|Long
+The Hurricane|146 min|Long
+Ah-ga-ssi|145 min|Long
+Paris, Texas|145 min|Long
+The Wild Bunch|145 min|Long
+Zwartboek|145 min|Long
+Minority Report|145 min|Long
+Lage Raho Munna Bhai|144 min|Long
+The Martian|144 min|Long
+Special Chabbis|144 min|Long
+Dev.D|144 min|Long
+Casino Royale|144 min|Long
+Cinderella Man|144 min|Long
+Carlito's Way|144 min|Long
+L'avventura|144 min|Long
+Ang-ma-reul bo-at-da|144 min|Long
+Das weiße Band - Eine deutsche Kindergeschichte|144 min|Long
+Black Hawk Down|144 min|Long
+Kelly's Heroes|144 min|Long
+Tengoku to jigoku|143 min|Long
+Ikiru|143 min|Long
+Chhichhore|143 min|Long
+The Avengers|143 min|Long
+Blood Diamond|143 min|Long
+Pirates of the Caribbean: The Curse of the Black Pearl|143 min|Long
+Cast Away|143 min|Long
+The Day of the Jackal|143 min|Long
+Skyfall|143 min|Long
+The Shawshank Redemption|142 min|Long
+Forrest Gump|142 min|Long
+Idi i smotri|142 min|Long
+Dom za vesanje|142 min|Long
+Harry Potter and the Prisoner of Azkaban|142 min|Long
+Bridge of Spies|142 min|Long
+Catch Me If You Can|141 min|Long
+Rio Bravo|141 min|Long
+Letters from Iwo Jima|141 min|Long
+La grande bellezza|141 min|Long
+Mr. Nobody|141 min|Long
+The Killing Fields|141 min|Long
+Changeling|141 min|Long
+Warrior|140 min|Long
+Batman Begins|140 min|Long
+Taegukgi hwinalrimyeo|140 min|Long
+Dancer in the Dark|140 min|Long
+Leviafan|140 min|Long
+La Vie En Rose|140 min|Long
+Apollo 13|140 min|Long
+Fight Club|139 min|Long
+Andhadhun|139 min|Long
+Mommy|139 min|Long
+Hacksaw Ridge|139 min|Long
+Kakushi-toride no san-akunin|139 min|Long
+Apocalypto|139 min|Long
+Mary Poppins|139 min|Long
+As Good as It Gets|139 min|Long
+Uri: The Surgical Strike|138 min|Long
+Shutter Island|138 min|Long
+L.A. Confidential|138 min|Long
+All About Eve|138 min|Long
+Sleuth|138 min|Long
+8½|138 min|Long
+Star Wars: Episode VII - The Force Awakens|138 min|Long
+Jab We Met|138 min|Long
+Mystic River|138 min|Long
+All the President's Men|138 min|Long
+Raazi|138 min|Long
+A Few Good Men|138 min|Long
+Zulu|138 min|Long
+Victoria|138 min|Long
+Close Encounters of the Third Kind|138 min|Long
+Terminator 2: Judgment Day|137 min|Long
+The Lives of Others|137 min|Long
+Aliens|137 min|Long
+Logan|137 min|Long
+Kaguyahime no monogatari|137 min|Long
+Kill Bill: Vol. 2|137 min|Long
+Yeopgijeogin geunyeo|137 min|Long
+Rosemary's Baby|137 min|Long
+Marriage Story|137 min|Long
+Manchester by the Sea|137 min|Long
+Beasts of No Nation|137 min|Long
+Just Mercy|137 min|Long
+The Matrix|136 min|Long
+A Clockwork Orange|136 min|Long
+North by Northwest|136 min|Long
+Tôkyô monogatari|136 min|Long
+Pink|136 min|Long
+Secrets & Lies|136 min|Long
+Walk the Line|136 min|Long
+Captain America: The Winter Soldier|136 min|Long
+Guardians of the Galaxy Vol. 2|136 min|Long
+A Star Is Born|136 min|Long
+Sense and Sensibility|136 min|Long
+Paan Singh Tomar|135 min|Long
+A Beautiful Mind|135 min|Long
+The Red Shoes|135 min|Long
+Sling Blade|135 min|Long
+Little Women|135 min|Long
+The Outlaw Josey Wales|135 min|Long
+Roma|135 min|Long
+25th Hour|135 min|Long
+The Bridges of Madison County|135 min|Long
+Mononoke-hime|134 min|Long
+Udaan|134 min|Long
+12 Years a Slave|134 min|Long
+What Ever Happened to Baby Jane?|134 min|Long
+Bohemian Rhapsody|134 min|Long
+The Hustler|134 min|Long
+The Lion in Winter|134 min|Long
+English Vinglish|134 min|Long
+Captain Phillips|134 min|Long
+The Remains of the Day|134 min|Long
+Brokeback Mountain|134 min|Long
+Happiness|134 min|Long
+Only the Brave|134 min|Long
+Lost Highway|134 min|Long
+One Flew Over the Cuckoo's Nest|133 min|Long
+Seppuku|133 min|Long
+In the Name of the Father|133 min|Long
+Rain Man|133 min|Long
+The Blues Brothers|133 min|Long
+Rogue One|133 min|Long
+Red River|133 min|Long
+Creed|133 min|Long
+Moneyball|133 min|Long
+Un long dimanche de fiançailles|133 min|Long
+Gisaengchung|132 min|Long
+Miracle in cell NO.7|132 min|Long
+Per qualche dollaro in più|132 min|Long
+Talvar|132 min|Long
+V for Vendetta|132 min|Long
+Die Hard|132 min|Long
+Million Dollar Baby|132 min|Long
+Call Me by Your Name|132 min|Long
+X-Men: Days of Future Past|132 min|Long
+Brazil|132 min|Long
+Naked|132 min|Long
+Star Trek Into Darkness|132 min|Long
+I Am Sam|132 min|Long
+Incendies|131 min|Long
+Star Wars: Episode VI - Return of the Jedi|131 min|Long
+Salinui chueok|131 min|Long
+Le salaire de la peur|131 min|Long
+Who's Afraid of Virginia Woolf?|131 min|Long
+La migliore offerta|131 min|Long
+The Count of Monte Cristo|131 min|Long
+X: First Class|131 min|Long
+Enemy at the Gates|131 min|Long
+Cidade de Deus|130 min|Long
+It's a Wonderful Life|130 min|Long
+The Prestige|130 min|Long
+Green Book|130 min|Long
+Unforgiven|130 min|Long
+Koe no katachi|130 min|Long
+Harry Potter and the Deathly Hallows: Part 2|130 min|Long
+Okuribito|130 min|Long
+Chinatown|130 min|Long
+Rebecca|130 min|Long
+Airlift|130 min|Long
+Being There|130 min|Long
+Knives Out|130 min|Long
+Thor: Ragnarok|130 min|Long
+Le passé|130 min|Long
+The Big Short|130 min|Long
+Tombstone|130 min|Long
+The Fugitive|130 min|Long
+Kai po che!|130 min|Long
+Fried Green Tomatoes|130 min|Long
+Der Name der Rose|130 min|Long
+Serpico|130 min|Long
+Dawn of the Planet of the Apes|130 min|Long
+The Sting|129 min|Long
+El secreto de sus ojos|129 min|Long
+Raging Bull|129 min|Long
+To Kill a Mockingbird|129 min|Long
+Spotlight|129 min|Long
+Mr. Smith Goes to Washington|129 min|Long
+Twelve Monkeys|129 min|Long
+The Grapes of Wrath|129 min|Long
+C.R.A.Z.Y.|129 min|Long
+Madeo|129 min|Long
+The Trial of the Chicago 7|129 min|Long
+Pride & Prejudice|129 min|Long
+The Game|129 min|Long
+Night on Earth|129 min|Long
+The Man Who Would Be King|129 min|Long
+Kingsman: The Secret Service|129 min|Long
+Primal Fear|129 min|Long
+The Verdict|129 min|Long
+The Quiet Man|129 min|Long
+The Blind Side|129 min|Long
+Inside Man|129 min|Long
+Boksuneun naui geot|129 min|Long
+Vertigo|128 min|Long
+Eskiya|128 min|Long
+Dead Poets Society|128 min|Long
+Inherit the Wind|128 min|Long
+La La Land|128 min|Long
+Nefes: Vatan Sagolsun|128 min|Long
+Der Himmel über Berlin|128 min|Long
+Lat sau san taam|128 min|Long
+Mississippi Burning|128 min|Long
+The Magnificent Seven|128 min|Long
+Sherlock Holmes|128 min|Long
+Die Hard: With a Vengeance|128 min|Long
+Se7en|127 min|Long
+Indiana Jones and the Last Crusade|127 min|Long
+Crna macka, beli macor|127 min|Long
+Jurassic Park|127 min|Long
+Cool Hand Luke|127 min|Long
+G.O.R.A.|127 min|Long
+Amour|127 min|Long
+Star Trek|127 min|Long
+Life of Pi|127 min|Long
+Dawn of the Dead|127 min|Long
+Hidden Figures|127 min|Long
+The World's Fastest Indian|127 min|Long
+Ed Wood|127 min|Long
+Donnie Brasco|127 min|Long
+Nelyubov|127 min|Long
+Stardust|127 min|Long
+Capharnaüm|126 min|Long
+Good Will Hunting|126 min|Long
+The Treasure of the Sierra Madre|126 min|Long
+Her|126 min|Long
+Mar adentro|126 min|Long
+Iron Man|126 min|Long
+The Manchurian Candidate|126 min|Long
+Vicky Donor|126 min|Long
+Kaze tachinu|126 min|Long
+Diarios de motocicleta|126 min|Long
+The Fault in Our Stars|126 min|Long
+Death Note: Desu nôto|126 min|Long
+The Fifth Element|126 min|Long
+Le locataire|126 min|Long
+Dark Waters|126 min|Long
+Sen to Chihiro no kamikakushi|125 min|Long
+Ayla: The Daughter of War|125 min|Long
+The Great Dictator|125 min|Long
+The Apartment|125 min|Long
+OMG: Oh My God!|125 min|Long
+Dà hóng denglong gaogao guà|125 min|Long
+Big Fish|125 min|Long
+Tenkû no shiro Rapyuta|125 min|Long
+Dog Day Afternoon|125 min|Long
+Chugyeokja|125 min|Long
+Philadelphia|125 min|Long
+Fantasia|125 min|Long
+Star Wars: Episode V - The Empire Strikes Back|124 min|Long
+The Elephant Man|124 min|Long
+Badhaai ho|124 min|Long
+Sin City|124 min|Long
+Akira|124 min|Long
+Jaws|124 min|Long
+Forushande|124 min|Long
+Cabaret|124 min|Long
+Ordinary People|124 min|Long
+Match Point|124 min|Long
+Synecdoche, New York|124 min|Long
+21 Grams|124 min|Long
+Blow|124 min|Long
+Jodaeiye Nader az Simin|123 min|Long
+Rush|123 min|Long
+The Man Who Shot Liberty Valance|123 min|Long
+All That Jazz|123 min|Long
+Amarcord|123 min|Long
+About Time|123 min|Long
+Atonement|123 min|Long
+The Notebook|123 min|Long
+The Theory of Everything|123 min|Long
+The Last King of Scotland|123 min|Long
+Seven Pounds|123 min|Long
+Joker|122 min|Long
+Anand|122 min|Long
+Amélie|122 min|Long
+American Beauty|122 min|Long
+Black|122 min|Long
+Portrait de la jeune fille en feu|122 min|Long
+Relatos salvajes|122 min|Long
+Kahaani|122 min|Long
+No Country for Old Men|122 min|Long
+The Exorcist|122 min|Long
+A Streetcar Named Desire|122 min|Long
+Almost Famous|122 min|Long
+Auf der anderen Seite|122 min|Long
+Glory|122 min|Long
+Silver Linings Playbook|122 min|Long
+Frost/Nixon|122 min|Long
+Control|122 min|Long
+3:10 to Yuma|122 min|Long
+Training Day|122 min|Long
+Lord of War|122 min|Long
+Star Wars|121 min|Long
+Some Like It Hot|121 min|Long
+Hotel Rwanda|121 min|Long
+Network|121 min|Long
+La battaglia di Algeri|121 min|Long
+Guardians of the Galaxy|121 min|Long
+Manbiki kazoku|121 min|Long
+Gegen die Wand|121 min|Long
+Hot Fuzz|121 min|Long
+A Bronx Tale|121 min|Long
+Awakenings|121 min|Long
+Good Bye Lenin!|121 min|Long
+Sicario|121 min|Long
+Dead Man|121 min|Long
+Midnight Express|121 min|Long
+Mad Max: Fury Road|120 min|Long
+Platoon|120 min|Long
+Rocky|120 min|Long
+Slumdog Millionaire|120 min|Long
+Do the Right Thing|120 min|Long
+Stalag 17|120 min|Long
+Ying xiong|120 min|Long
+Sound of Metal|120 min|Long
+Wo hu cang long|120 min|Long
+The Social Network|120 min|Long
+Argo|120 min|Long
+Efter brylluppet|120 min|Long
+Das Experiment|120 min|Long
+Blue Velvet|120 min|Long
+A Man for All Seasons|120 min|Long
+La piel que habito|120 min|Long
+My Cousin Vinny|120 min|Long
+American History X|119 min|Standard
+1917|119 min|Standard
+Citizen Kane|119 min|Standard
+Hauru no ugoku shiro|119 min|Standard
+Darbareye Elly|119 min|Standard
+The Bourne Identity|119 min|Standard
+True Romance|119 min|Standard
+The Untouchables|119 min|Standard
+The Searchers|119 min|Standard
+Pride|119 min|Standard
+Ajeossi|119 min|Standard
+Serenity|119 min|Standard
+Deadpool 2|119 min|Standard
+Birdman or (The Unexpected Virtue of Ignorance)|119 min|Standard
+Abre los ojos|119 min|Standard
+The Birds|119 min|Standard
+The Silence of the Lambs|118 min|Standard
+Pan's Labyrinth|118 min|Standard
+Du rififi chez les hommes|118 min|Standard
+Room|118 min|Standard
+Lion|118 min|Standard
+The King's Speech|118 min|Standard
+The Last Picture Show|118 min|Standard
+Roman Holiday|118 min|Standard
+Arsenic and Old Lace|118 min|Standard
+Captain Fantastic|118 min|Standard
+East of Eden|118 min|Standard
+What's Eating Gilbert Grape|118 min|Standard
+Incredibles 2|118 min|Standard
+Hævnen|118 min|Standard
+Fear and Loathing in Las Vegas|118 min|Standard
+Omohide poro poro|118 min|Standard
+From Here to Eternity|118 min|Standard
+Spider-Man: Into the Spider-Verse|117 min|Standard
+Alien|117 min|Standard
+M - Eine Stadt sucht einen Mörder|117 min|Standard
+Ôkami kodomo no Ame to Yuki|117 min|Standard
+The Big Lebowski|117 min|Standard
+Kaze no tani no Naushika|117 min|Standard
+Blade Runner|117 min|Standard
+Dallas Buyers Club|117 min|Standard
+The Pursuit of Happyness|117 min|Standard
+Les diaboliques|117 min|Standard
+Nightcrawler|117 min|Standard
+The Fall|117 min|Standard
+Druk|117 min|Standard
+Road to Perdition|117 min|Standard
+Kick-Ass|117 min|Standard
+300|117 min|Standard
+La vita è bella|116 min|Standard
+Back to the Future|116 min|Standard
+Witness for the Prosecution|116 min|Standard
+Full Metal Jacket|116 min|Standard
+Gran Torino|116 min|Standard
+Arrival|116 min|Standard
+The Fighter|116 min|Standard
+En man som heter Ove|116 min|Standard
+Joyeux Noël|116 min|Standard
+Ocean's Eleven|116 min|Standard
+Interstate 60: Episodes of the Road|116 min|Standard
+Barton Fink|116 min|Standard
+Raiders of the Lost Ark|115 min|Standard
+Jagten|115 min|Standard
+Three Billboards Outside Ebbing, Missouri|115 min|Standard
+Tropa de Elite 2: O Inimigo Agora é Outro|115 min|Standard
+Tropa de Elite|115 min|Standard
+The Bourne Ultimatum|115 min|Standard
+The Incredibles|115 min|Standard
+Cowboy Bebop: Tengoku no tobira|115 min|Standard
+E.T. the Extra-Terrestrial|115 min|Standard
+Nebraska|115 min|Standard
+Adaptation.|115 min|Standard
+Miller's Crossing|115 min|Standard
+Breakfast at Tiffany's|115 min|Standard
+Taxi Driver|114 min|Standard
+White Heat|114 min|Standard
+The Imitation Game|114 min|Standard
+Låt den rätte komma in|114 min|Standard
+Nueve reinas|114 min|Standard
+La montaña sagrada|114 min|Standard
+The Big Sleep|114 min|Standard
+The Goonies|114 min|Standard
+The Magdalene Sisters|114 min|Standard
+Gone Baby Gone|114 min|Standard
+Batoru rowaiaru|114 min|Standard
+Memento|113 min|Standard
+La Grande Illusion|113 min|Standard
+Togo|113 min|Standard
+Wonder|113 min|Standard
+Donnie Darko|113 min|Standard
+Il conformista|113 min|Standard
+Edge of Tomorrow|113 min|Standard
+4 luni, 3 saptamâni si 2 zile|113 min|Standard
+Charade|113 min|Standard
+The Gentlemen|113 min|Standard
+Ondskan|113 min|Standard
+Remember the Titans|113 min|Standard
+The Conversation|113 min|Standard
+Midnight Cowboy|113 min|Standard
+Being John Malkovich|113 min|Standard
+Star Trek II: The Wrath of Khan|113 min|Standard
+Sabrina|113 min|Standard
+Baby Driver|113 min|Standard
+Celda 211|113 min|Standard
+The Butterfly Effect|113 min|Standard
+28 Days Later...|113 min|Standard
+Falling Down|113 min|Standard
+The Intouchables|112 min|Standard
+Rear Window|112 min|Standard
+Babam ve Oglum|112 min|Standard
+Le scaphandre et le papillon|112 min|Standard
+The Straight Story|112 min|Standard
+Planet of the Apes|112 min|Standard
+District 9|112 min|Standard
+Hable con ella|112 min|Standard
+The Philadelphia Story|112 min|Standard
+Boyz n the Hood|112 min|Standard
+Crash|112 min|Standard
+The Last of the Mohicans|112 min|Standard
+El cuerpo|112 min|Standard
+Escape from Alcatraz|112 min|Standard
+The Long Goodbye|112 min|Standard
+Kill Bill: Vol. 1|111 min|Standard
+Ace in the Hole|111 min|Standard
+Ratatouille|111 min|Standard
+Mimi wo sumaseba|111 min|Standard
+Dip huet seung hung|111 min|Standard
+Bonnie and Clyde|111 min|Standard
+The Broken Circle Breakdown|111 min|Standard
+Rebel Without a Cause|111 min|Standard
+The Florida Project|111 min|Standard
+Blowup|111 min|Standard
+Léon|110 min|Standard
+Sunset Blvd.|110 min|Standard
+Yôjinbô|110 min|Standard
+Le notti di Cabiria|110 min|Standard
+Kumonosu-jô|110 min|Standard
+La passion de Jeanne d'Arc|110 min|Standard
+Vozvrashchenie|110 min|Standard
+Vizontele|110 min|Standard
+Central do Brasil|110 min|Standard
+Butch Cassidy and the Sundance Kid|110 min|Standard
+La règle du jeu|110 min|Standard
+In the Heat of the Night|110 min|Standard
+Gongdong gyeongbi guyeok JSA|110 min|Standard
+Lucky Number Slevin|110 min|Standard
+Billy Elliot|110 min|Standard
+Goldfinger|110 min|Standard
+Gilda|110 min|Standard
+True Grit|110 min|Standard
+The Illusionist|110 min|Standard
+The Royal Tenenbaums|110 min|Standard
+Psycho|109 min|Standard
+The Thing|109 min|Standard
+Before Midnight|109 min|Standard
+The Wrestler|109 min|Standard
+Children of Men|109 min|Standard
+Lilja 4-ever|109 min|Standard
+The King of Comedy|109 min|Standard
+Deliverance|109 min|Standard
+End of Watch|109 min|Standard
+Lethal Weapon|109 min|Standard
+On Golden Pond|109 min|Standard
+Eternal Sunshine of the Spotless Mind|108 min|Standard
+On the Waterfront|108 min|Standard
+Zootopia|108 min|Standard
+Deadpool|108 min|Standard
+Black Swan|108 min|Standard
+Cat on a Hot Tin Roof|108 min|Standard
+La Strada|108 min|Standard
+Jojo Rabbit|108 min|Standard
+The Boondock Saints|108 min|Standard
+October Sky|108 min|Standard
+Back to the Future Part II|108 min|Standard
+Wait Until Dark|108 min|Standard
+Guess Who's Coming to Dinner|108 min|Standard
+Shadow of a Doubt|108 min|Standard
+Le Petit Prince|108 min|Standard
+Ex Machina|108 min|Standard
+The Bourne Supremacy|108 min|Standard
+Il postino|108 min|Standard
+Funny Games|108 min|Standard
+Double Indemnity|107 min|Standard
+Lock, Stock and Two Smoking Barrels|107 min|Standard
+The Sixth Sense|107 min|Standard
+Zerkalo|107 min|Standard
+The Terminator|107 min|Standard
+In Bruges|107 min|Standard
+Hannah and Her Sisters|107 min|Standard
+Misery|107 min|Standard
+Predator|107 min|Standard
+Down by Law|107 min|Standard
+Wind River|107 min|Standard
+O Brother, Where Art Thou?|107 min|Standard
+Spoorloos|107 min|Standard
+Withnail & I|107 min|Standard
+Moana|107 min|Standard
+Die Welle|107 min|Standard
+Whiplash|106 min|Standard
+The Usual Suspects|106 min|Standard
+Kimi no na wa.|106 min|Standard
+Contratiempo|106 min|Standard
+Yip Man|106 min|Standard
+Young Frankenstein|106 min|Standard
+The Graduate|106 min|Standard
+Kind Hearts and Coronets|106 min|Standard
+Sing Street|106 min|Standard
+Dunkirk|106 min|Standard
+Kokuhaku|106 min|Standard
+Gattaca|106 min|Standard
+Cape Fear|106 min|Standard
+Finding Neverland|106 min|Standard
+Y tu mamá también|106 min|Standard
+Coco|105 min|Standard
+Dial M for Murder|105 min|Standard
+Le samouraï|105 min|Standard
+It Happened One Night|105 min|Standard
+Festen|105 min|Standard
+Edward Scissorhands|105 min|Standard
+Ghostbusters|105 min|Standard
+Kramer vs. Kramer|105 min|Standard
+Jules et Jim|105 min|Standard
+Me and Earl and the Dying Girl|105 min|Standard
+In America|105 min|Standard
+Shine|105 min|Standard
+The Odd Couple|105 min|Standard
+Repulsion|105 min|Standard
+The African Queen|105 min|Standard
+Mysterious Skin|105 min|Standard
+Tumbbad|104 min|Standard
+Snatch|104 min|Standard
+A Wednesday|104 min|Standard
+The Third Man|104 min|Standard
+Au revoir les enfants|104 min|Standard
+Crimes and Misdemeanors|104 min|Standard
+Harvey|104 min|Standard
+The Lunchbox|104 min|Standard
+God's Own Country|104 min|Standard
+Get Out|104 min|Standard
+Who Framed Roger Rabbit|104 min|Standard
+The Taking of Pelham One Two Three|104 min|Standard
+The French Connection|104 min|Standard
+The Visitor|104 min|Standard
+Huo Yuan Jia|104 min|Standard
+Singin' in the Rain|103 min|Standard
+Toy Story 3|103 min|Standard
+The Truman Show|103 min|Standard
+The Perks of Being a Wallflower|103 min|Standard
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom|103 min|Standard
+My Left Foot: The Story of Christy Brown|103 min|Standard
+Paddington 2|103 min|Standard
+Hana-bi|103 min|Standard
+Majo no takkyûbin|103 min|Standard
+Ferris Bueller's Day Off|103 min|Standard
+Omoide no Mânî|103 min|Standard
+Vampire Hunter D: Bloodlust|103 min|Standard
+Saw|103 min|Standard
+Home Alone|103 min|Standard
+Casablanca|102 min|Standard
+Requiem for a Dream|102 min|Standard
+Chung Hing sam lam|102 min|Standard
+Paper Moon|102 min|Standard
+The Wizard of Oz|102 min|Standard
+Once Were Warriors|102 min|Standard
+Le charme discret de la bourgeoisie|102 min|Standard
+Notorious|102 min|Standard
+The Adventures of Robin Hood|102 min|Standard
+Big Hero 6|102 min|Standard
+How to Train Your Dragon 2|102 min|Standard
+Bringing Up Baby|102 min|Standard
+Lost in Translation|102 min|Standard
+Enter the Dragon|102 min|Standard
+Dirty Harry|102 min|Standard
+Searching|102 min|Standard
+Hell or High Water|102 min|Standard
+Dazed and Confused|102 min|Standard
+Oldeuboi|101 min|Standard
+Before Sunrise|101 min|Standard
+Mou gaan dou|101 min|Standard
+Groundhog Day|101 min|Standard
+Dil Bechara|101 min|Standard
+Isle of Dogs|101 min|Standard
+Hunt for the Wilderpeople|101 min|Standard
+Strangers on a Train|101 min|Standard
+The Lost Weekend|101 min|Standard
+Kubo and the Two Strings|101 min|Standard
+Little Miss Sunshine|101 min|Standard
+Todo sobre mi madre|101 min|Standard
+The Sandlot|101 min|Standard
+Wreck-It Ralph|101 min|Standard
+Gake no ue no Ponyo|101 min|Standard
+This Is England|101 min|Standard
+The Machinist|101 min|Standard
+Peeping Tom|101 min|Standard
+Gifted|101 min|Standard
+Serbuan maut|101 min|Standard
+The Others|101 min|Standard
+American Psycho|101 min|Standard
+Soul|100 min|Standard
+Finding Nemo|100 min|Standard
+The Maltese Falcon|100 min|Standard
+I, Daniel Blake|100 min|Standard
+The Artist|100 min|Standard
+King Kong|100 min|Standard
+Under sandet|100 min|Standard
+Toy Story 4|100 min|Standard
+Drive|100 min|Standard
+Willy Wonka & the Chocolate Factory|100 min|Standard
+The Innocents|100 min|Standard
+Key Largo|100 min|Standard
+To Have and Have Not|100 min|Standard
+The Lego Movie|100 min|Standard
+The Hangover|100 min|Standard
+Tangled|100 min|Standard
+Coraline|100 min|Standard
+Glengarry Glen Ross|100 min|Standard
+Rupan sansei: Kariosutoro no shiro|100 min|Standard
+Belle de jour|100 min|Standard
+50/50|100 min|Standard
+Eastern Promises|100 min|Standard
+Dark City|100 min|Standard
+Reservoir Dogs|99 min|Standard
+Höstsonaten|99 min|Standard
+To Be or Not to Be|99 min|Standard
+The Grand Budapest Hotel|99 min|Standard
+Trois couleurs: Rouge|99 min|Standard
+Les quatre cents coups|99 min|Standard
+The Shop Around the Corner|99 min|Standard
+Per un pugno di dollari|99 min|Standard
+Shaun of the Dead|99 min|Standard
+Waking Life|99 min|Standard
+Kung fu|99 min|Standard
+Do lok tin si|99 min|Standard
+Delicatessen|99 min|Standard
+Blood Simple|99 min|Standard
+WALL·E|98 min|Standard
+How to Train Your Dragon|98 min|Standard
+Fa yeung nin wah|98 min|Standard
+Fargo|98 min|Standard
+La haine|98 min|Standard
+The Princess Bride|98 min|Standard
+No Man's Land|98 min|Standard
+La double vie de Véronique|98 min|Standard
+Detachment|98 min|Standard
+Toki o kakeru shôjo|98 min|Standard
+Philomena|98 min|Standard
+Out of the Past|97 min|Standard
+Moon|97 min|Standard
+Les choristes|97 min|Standard
+The Breakfast Club|97 min|Standard
+A Little Princess|97 min|Standard
+After Hours|97 min|Standard
+The Peanut Butter Falcon|97 min|Standard
+Mustang|97 min|Standard
+Lifeboat|97 min|Standard
+12 Angry Men|96 min|Standard
+Klaus|96 min|Standard
+Up|96 min|Standard
+Det sjunde inseglet|96 min|Standard
+Sanjuro|96 min|Standard
+Short Term 12|96 min|Standard
+Persepolis|96 min|Standard
+Sweet Smell of Success|96 min|Standard
+Manhattan|96 min|Standard
+Night of the Living Dead|96 min|Standard
+Miracle on 34th Street|96 min|Standard
+A Night at the Opera|96 min|Standard
+Perfetti sconosciuti|96 min|Standard
+Stagecoach|96 min|Standard
+The Lady Vanishes|96 min|Standard
+Midnight in Paris|96 min|Standard
+Mad Max 2|96 min|Standard
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|95 min|Standard
+The Gold Rush|95 min|Standard
+Inside Out|95 min|Standard
+Pink Floyd: The Wall|95 min|Standard
+El ángel exterminador|95 min|Standard
+Ivanovo detstvo|95 min|Standard
+Touch of Evil|95 min|Standard
+Aguirre, der Zorn Gottes|95 min|Standard
+(500) Days of Summer|95 min|Standard
+Hedwig and the Angry Inch|95 min|Standard
+Despicable Me|95 min|Standard
+When Harry Met Sally...|95 min|Standard
+The Muppet Movie|95 min|Standard
+Life of Brian|94 min|Standard
+Sunrise: A Song of Two Humans|94 min|Standard
+In a Lonely Place|94 min|Standard
+Trois couleurs: Bleu|94 min|Standard
+Jûbê ninpûchô|94 min|Standard
+Nosferatu|94 min|Standard
+Loving Vincent|94 min|Standard
+Moonrise Kingdom|94 min|Standard
+The Boy in the Striped Pyjamas|94 min|Standard
+Adams æbler|94 min|Standard
+Days of Heaven|94 min|Standard
+Badlands|94 min|Standard
+Kurenai no buta|94 min|Standard
+Kari-gurashi no Arietti|94 min|Standard
+Song of the Sea|93 min|Standard
+Hachi: A Dog's Tale|93 min|Standard
+Trainspotting|93 min|Standard
+Annie Hall|93 min|Standard
+A Christmas Story|93 min|Standard
+Scarface: The Shame of the Nation|93 min|Standard
+Rushmore|93 min|Standard
+First Blood|93 min|Standard
+Blazing Saddles|93 min|Standard
+Jeux d'enfants|93 min|Standard
+Planes, Trains & Automobiles|93 min|Standard
+Mary and Max|92 min|Standard
+Monsters, Inc.|92 min|Standard
+The Night of the Hunter|92 min|Standard
+Toy Story 2|92 min|Standard
+His Girl Friday|92 min|Standard
+Clerks|92 min|Standard
+The Day the Earth Stood Still|92 min|Standard
+Trois couleurs: Blanc|92 min|Standard
+The Warriors|92 min|Standard
+Monty Python and the Holy Grail|91 min|Standard
+Smultronstället|91 min|Standard
+Viskningar och rop|91 min|Standard
+The Thin Man|91 min|Standard
+Harold and Maude|91 min|Standard
+Gravity|91 min|Standard
+Halloween|91 min|Standard
+The Ladykillers|91 min|Standard
+Watership Down|91 min|Standard
+Aladdin|90 min|Standard
+Hiroshima mon amour|90 min|Standard
+Taken|90 min|Standard
+Tôkyô goddofâzâzu|90 min|Standard
+Shrek|90 min|Standard
+À bout de souffle|90 min|Standard
+Papurika|90 min|Standard
+Flipped|90 min|Standard
+Les yeux sans visage|90 min|Standard
+Dead Man's Shoes|90 min|Standard
+Hotaru no haka|89 min|Short
+Bacheha-Ye aseman|89 min|Short
+Ladri di biciclette|89 min|Short
+Stand by Me|89 min|Short
+Jungfrukällan|89 min|Short
+Office Space|89 min|Short
+The Station Agent|89 min|Short
+The Lion King|88 min|Short
+Paths of Glory|88 min|Short
+Rashômon|88 min|Short
+Bin-jip|88 min|Short
+Laura|88 min|Short
+Airplane!|88 min|Short
+Zombieland|88 min|Short
+Mulan|88 min|Short
+Modern Times|87 min|Short
+City Lights|87 min|Short
+Mandariinid|87 min|Short
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni|87 min|Short
+Knockin' on Heaven's Door|87 min|Short
+The Man from Earth|87 min|Short
+Fantastic Mr. Fox|87 min|Short
+A Hard Day's Night|87 min|Short
+Tonari no Totoro|86 min|Short
+The Iron Giant|86 min|Short
+Brief Encounter|86 min|Short
+Once|86 min|Short
+What We Do in the Shadows|86 min|Short
+The 39 Steps|86 min|Short
+Persona|85 min|Short
+High Noon|85 min|Short
+The Muppet Christmas Carol|85 min|Short
+Love and Death|85 min|Short
+The Naked Gun: From the Files of Police Squad!|85 min|Short
+Beauty and the Beast|84 min|Short
+The Killing|84 min|Short
+Evil Dead II|84 min|Short
+Kôkaku Kidôtai|83 min|Short
+The Little Mermaid|83 min|Short
+This Is Spinal Tap|82 min|Short
+The Purple Rose of Cairo|82 min|Short
+Toy Story|81 min|Short
+Pâfekuto burû|81 min|Short
+South Park: Bigger, Longer & Uncut|81 min|Short
+Lola rennt|81 min|Short
+Before Sunset|80 min|Short
+Vivre sa vie: Film en douze tableaux|80 min|Short
+Rope|80 min|Short
+Les triplettes de Belleville|80 min|Short
+Le dîner de cons|80 min|Short
+Invasion of the Body Snatchers|80 min|Short
+Zelig|79 min|Short
+The Jungle Book|78 min|Short
+Das Cabinet des Dr. Caligari|76 min|Short
+The Nightmare Before Christmas|76 min|Short
+Batman: Mask of the Phantasm|76 min|Short
+Bronenosets Potemkin|75 min|Short
+Bride of Frankenstein|75 min|Short
+The Circus|72 min|Short
+La planète sauvage|72 min|Short
+The Invisible Man|71 min|Short
+The Secret of Kells|71 min|Short
+Frankenstein|70 min|Short
+Duck Soup|69 min|Short
+The Kid|68 min|Short
+The General|67 min|Short
+Freaks|64 min|Short
+Sherlock Jr.|45 min|Short
+Average|678|118.992625368732|86.6578171091445
+Highly Rated|322|131.099378881988|108.913043478261
+Frank Darabont|2|8.95|8.6|9.3
+Lana Wachowski|1|8.7|8.7|8.7
+Irvin Kershner|1|8.7|8.7|8.7
+Thomas Kail|1|8.6|8.6|8.6
+Sudha Kongara|1|8.6|8.6|8.6
+Classic|A|114|8.04912280701754|126.043859649123|48|Above Average Era
+Classic|Passed|34|8.02058823529412|106.205882352941|17|Above Average Era
+Classic|G|11|7.99090909090909|122.090909090909|4|Above Average Era
+Modern|U|91|7.98131868131868|125.043956043956|34|Above Average Era
+Classic||64|7.98125|107.9375|24|Above Average Era
+Classic|U|143|7.97412587412587|123.594405594406|51|Above Average Era
+Classic|UA|40|7.9575|119.325|15|Above Average Era
+Modern|UA|135|7.95703703703704|132.296296296296|42|Above Average Era
+Classic|Approved|11|7.94545454545455|111.090909090909|4|Below Average Era
+Classic|PG|30|7.93666666666667|117.466666666667|8|Below Average Era
+Modern|A|83|7.93012048192771|132.915662650602|27|Below Average Era
+Classic|R|55|7.92727272727273|126.345454545455|15|Below Average Era
+Modern||37|7.84594594594595|116.783783783784|5|Below Average Era
+Modern|R|91|7.83516483516483|119.967032967033|16|Below Average Era
+Modern|PG-13|35|7.79428571428571|115.257142857143|4|Below Average Era

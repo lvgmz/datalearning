@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "12af70f22a6560eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0475a7fb63f606ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c94c97f3a6608aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailylog/2026-02-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-21"
+            }
+          },
+          {
+            "id": "c3b6992150a9c3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailylog/2026-02-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-22"
+            }
+          },
+          {
+            "id": "61e156ab79f1b240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailylog/2026-02-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-22"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d176073726055e18",
+    "type": "split",
+    "children": [
+      {
+        "id": "e48ac4d873ba16de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafc90d54d82e9ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6b389512bcde876",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8aff4b8d8e72d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fb48a26f967603ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9f072d250e56a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971e61a3d4e24607",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dailylog/2026-02-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-22"
+            }
+          },
+          {
+            "id": "964d4145e01a80c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dailylog/2026-02-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-22"
+            }
+          },
+          {
+            "id": "faa79decb2f60cc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "613ef0d25306e551",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d181a0ea92f3297b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dailylog/2026-02-22.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-22"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "61e156ab79f1b240",
+  "lastOpenFiles": [
+    "sql-cheatsheet.md",
+    "dailylog/2026-02-22.md",
+    "results.txt",
+    "dailylog/2026-02-16.md",
+    "dailylog/2026-02-15.md",
+    "dailylog/2026-02-19.md",
+    "dailylog/2026-02-17.md",
+    "movies.db-journal",
+    "movies.db",
+    "week1sqlproject.sql",
+    "imdb_top_1000.csv",
+    "Untitled",
+    "dailylog/2026-02-21.md",
+    "dailylog/2026-02-18.md",
+    "dailylog/2026-02-20.md"
+  ]
+}
